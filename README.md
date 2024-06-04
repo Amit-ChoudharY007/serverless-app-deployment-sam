@@ -7,7 +7,7 @@ The architecture of the application is simple. It consists of an API Gateway and
 
 ### Architecture Diagram 📊
 
-![Serverless App Deployment using AWS SAM -  Architecture Diagram](https://github.com/mathesh-me/serverless-app-deployment-sam/assets/144098846/0433a43e-6181-46c1-9019-51bde70d0733)
+![Serverless App Deployment using AWS SAM -  Architecture Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.aws.amazon.com%2Fserverless-application-model%2Flatest%2Fdeveloperguide%2Fserverless-getting-started-hello-world.html&psig=AOvVaw1UXZ10tPhiSbauVdLDXPCT&ust=1717607058436000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCg5NK3woYDFQAAAAAdAAAAABAY)
 
 
 ### Why SAM? 🤔
@@ -56,6 +56,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Author 📖
 
-- [Mathesh M](https://www.linkedin.com/in/mathesh-me/) on LinkedIn.
-- Checkout this Blog for how build this Application from Scratch: [Serverless Application Development using AWS SAM](https://medium.com/@mathesh-me/serverless-application-development-using-aws-sam-d6c75da86cba)
-- You Can also check out my [Medium](https://medium.com/@mathesh-me) for articles on DevOps Tools and Technologies.
+- [Amit KumaR](https://www.linkedin.com/in/amit-choudhary007/) on LinkedIn.
+
