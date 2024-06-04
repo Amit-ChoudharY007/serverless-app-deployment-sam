@@ -7,7 +7,7 @@ The architecture of the application is simple. It consists of an API Gateway and
 
 ### Architecture Diagram 📊
 
-![Serverless App Deployment using AWS SAM -  Architecture Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.aws.amazon.com%2Fserverless-application-model%2Flatest%2Fdeveloperguide%2Fserverless-getting-started-hello-world.html&psig=AOvVaw1UXZ10tPhiSbauVdLDXPCT&ust=1717607058436000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCg5NK3woYDFQAAAAAdAAAAABAY)
+![Serverless App Deployment using AWS SAM -  Architecture Diagram](https://s33046.pcdn.co/wp-content/uploads/2020/08/aws-sam-workflow-e1597653903262.png)
 
 
 ### Why SAM? 🤔
